@@ -1,0 +1,31 @@
+{
+   "toronto_utility" : {
+      "gen" : {
+					"url":"https://www.toronto.ca/services-payments/property-taxes-utilities/utility-account-lookup/utility-account-lookup-terms-of-use/"
+					},
+		"elm":{
+				"terms_agree_button":["ID","cot-terms-agree"],
+				"account_number_input":["ID", "accountnum"],
+				"client_number_input":["ID","clientnum"],
+				"last_name_input":["ID", "lastname"],
+				"postal_code_input":["ID", "postalcode"],
+				"payment_method_select":["ID","paymentmethod"],
+				"submit_button":["XPATH", "//div[@id='utilityActionButtonElement']/div/button/span[2]"]
+				}
+   },
+	"toronto_prop_tax":{
+	    "gen" : {
+					"url":"https://www.toronto.ca/services-payments/property-taxes-utilities/lookup-your-property-tax/property-tax-lookup/"
+					},
+		"elm":{
+				"terms_agree_button":["ID","cot-terms-agree"],
+				"assessment_roll_number_input":["ID","ROLL_NUMBER"],
+				"last_name_input":["ID","LAST_NAME"],
+				"postal_code_input":["ID","POSTAL_CODE"],
+				"customer_number_input":["ID","CUSTOMER_NUMBER"],
+				"view_button":["XPATH", "//*[@id=\"singlebuttonElement\"]/div/button/span[2]"]
+
+				}
+	}
+}
+
