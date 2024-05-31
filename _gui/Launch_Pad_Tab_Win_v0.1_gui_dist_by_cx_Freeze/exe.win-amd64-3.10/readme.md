@@ -1,5 +1,7 @@
 # Launch Pad Tab v0.1
 
+![Application Screenshot](https://github.com/mohabhui/yourrepository/raw/main/screenshot.png)
+
 ## Features
 
 - **Drag and Drop:** Left mouse click on the icon (not on the name).
