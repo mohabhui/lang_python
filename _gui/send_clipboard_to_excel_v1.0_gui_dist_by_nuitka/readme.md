@@ -1,4 +1,4 @@
-```markdown
+
 # Application Usage Instructions
 
 ## Overview
@@ -10,7 +10,7 @@ The application requires a configuration file named `config.json` which should b
 ## Configuring `config.json`
 The `config.json` file should be structured as follows:
 
-```json
+
 {
     "filename": "target.xlsx",
     "sheets_info": [
@@ -25,7 +25,7 @@ The `config.json` file should be structured as follows:
     },
     "markup_pairs": ["*", "*"]
 }
-```
+
 
 - **filename:** The path to the Excel file you want to interact with.
 - **sheets_info:** A list of lists where each inner list contains:
@@ -77,4 +77,3 @@ When you run the application, you will see the following interface:
    - Click the "Quit" button to close the application.
 
 By following these instructions, you should be able to effectively use the application to manage clipboard content and interact with your Excel files.
-```
