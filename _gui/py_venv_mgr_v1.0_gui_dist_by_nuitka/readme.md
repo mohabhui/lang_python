@@ -1,4 +1,4 @@
-# Instructions for Using the Python Virtual Environment Manager v1.0
+# Python Virtual Environment Manager v1.0
 
 ## Overview
 The Python Virtual Environment Manager v1.0 allows you to easily create, activate, deactivate, delete, and manage Python virtual environments. Follow the instructions below to use the application effectively.
