@@ -1,6 +1,6 @@
 # Launch Pad Tab v0.1
 
-![Application Screenshot](https://github.com/mohabhui/yourrepository/raw/main/screenshot.png)
+![Application Screenshot](https://github.com/mohabhui/lang_python/blob/main/_gui_images/launch_pad_tab_v0.1.png?raw=true)
 
 ## Features
 
