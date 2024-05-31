@@ -1,5 +1,5 @@
 
-# Clipboard to Excel
+# Clipboard to Excel v1.0
 
 ![Application Screenshot](https://github.com/mohabhui/lang_python/blob/main/_gui_images/clipboard_to_excel.png?raw=true)
 
